@@ -6,22 +6,18 @@ h2 {
   text-align: center;
 }
 
-h3{
+h3 {
   text-align: center;
 }
 
-
-.Siro{
+.Siro {
   width: 45vw;
-  height:35vw;
-  padding: 20%;
-
+  height: 3s5vw;
 }
 
-
-.part1{
+.part1 {
   align-content: center;
-  background-image: url(../img/2.jpg) ;
+  background-image: url(../img/2.jpg);
   height: 100%;
   width: 100%;
   color: white;
@@ -29,29 +25,32 @@ h3{
   letter-spacing: 3px;
   background-repeat: no-repeat;
   background-size: cover;
-
-
-
-
 }
 
-.img-circle{
+.img-circle {
   margin-left: 45%;
   margin-top: 5%;
-
-   border-radius: 1000%;
-
+  border-radius: 1000%;
 }
 
 .part2 {
   width: 100%;
-  height:60%;
+  height: 60%;
   float: left;
-
+  background-color: white;
 }
 
 .a {
   width: 50vw;
   height: 30vh;
   position: relative;
+}
+
+.part3 {
+  text-align: center;
+  margin-top: 60px;
+  background-image: url(../img/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
 }
