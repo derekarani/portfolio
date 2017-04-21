@@ -10,6 +10,15 @@ h3{
   text-align: center;
 }
 
+
+.Siro{
+  width: 45vw;
+  height:35vw;
+  padding: 20%;
+
+}
+
+
 .part1{
   align-content: center;
   background-image: url(../img/2.jpg) ;
@@ -34,40 +43,15 @@ h3{
 
 }
 
-.part2{
-  width: 500px;
-  height:500px;
-
-
-}
-
-
-.a{
-  float: right;
-  width:50%;
-  height: 25%;
-
-
-}
-
-.b{
+.part2 {
+  width: 100%;
+  height:60%;
   float: left;
-  width: 50%;
-  height: 25%;
 
 }
 
-.c{
-  float: right;
-  width: 50%;
-  height: 25%;
-
-}
-
-.d{
-  float: left;
-  width: 50%;
-  height: 25%;
-  
-
+.a {
+  width: 50vw;
+  height: 30vh;
+  position: relative;
 }
